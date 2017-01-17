@@ -398,7 +398,7 @@ h2, .h2 {
     content: '';
 }
 .banner-container {
-	background-image: url('../images/bg1.jpg');
+	background-image: url('../images/bg2.png');
 	background-repeat: no-repeat;
 	min-height: 750px;
 	background-size: cover;
